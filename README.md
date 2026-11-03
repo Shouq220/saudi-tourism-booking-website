@@ -13,5 +13,6 @@ Built during the Hash Plus Full Stack bootcamp.
 ## Built With
 HTML, CSS, JavaScript, PHP, MySQL
 
-## Screenshot
-![Screenshot](screenshot.png)
+## Screenshots
+![Home](home.png)
+![Booking](booking.png)
