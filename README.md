@@ -14,5 +14,5 @@ Built during the Hash Plus Full Stack bootcamp.
 HTML, CSS, JavaScript, PHP, MySQL
 
 ## Screenshots
-![Home](home.png)
-![Booking](booking.png)
+![Home](home.png.png)
+![Booking](booking.png.png)
